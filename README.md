@@ -1,4 +1,8 @@
 
+<img width="1080" height="2400" alt="Screenshot_20251021-072744" src="https://github.com/user-attachments/assets/6d46a875-860b-42c7-9156-519e205422b5" />
+<img width="1080" height="2400" alt="Screenshot_20251021-072756" src="https://github.com/user-attachments/assets/f5c1da63-0504-49fe-bd68-bb3175a5fbc0" />
+<img width="1080" height="2400" alt="Screenshot_20251021-072801" src="https://github.com/user-attachments/assets/bf6e9f54-5c81-404a-a6cf-341fffcc8494" />
+<img width="1080" height="2400" alt="Screenshot_20251021-072811" src="https://github.com/user-attachments/assets/a6f8d8a8-916d-420b-9c71-8d24e4e27aaf" />
 
 # Movie & TV Discovery Android App
 
